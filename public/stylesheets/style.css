@@ -1,0 +1,105 @@
+body {
+  padding-left: 5px;
+  padding-right: 5px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("../images/john-volante-695011-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+    margin-top: -20px;
+  }
+
+a {
+  color: #00B7FF;
+}
+
+.container-fluid ul {
+  display: inline;
+}
+
+.panel-footer {
+  background-color: black;
+  color: grey;
+  text-align: center;
+}
+.archive {
+  background-color: #d3d3d3;
+}
+.panel-heading {
+  text-align: center;
+  font-size: 40px;
+}
+.panel-default {
+  width: 100%;
+}
+.image {
+  background-image: url("../images/61026996-2016-nissan-gt-r-45th-anniversary-gold-edition-21.jpg");
+  height: 630px;
+  background-size: cover;
+  height: 470px;
+  background-size: 100% 100%;
+}
+
+
+}
+
+.panel-body {
+  padding: 30px;
+  box-shadow: 10px 10px 5px grey;
+}
+.navbar-inverse {
+  background-color: #324d62;;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: black;
+  font-size: 20px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  color:black;
+}
+
+#heading {
+  text-shadow: 0 0 5px white, 0 0 5px #0000FF;
+}
+
+.panel-primary>.panel-heading {
+  color: #fff;
+  background-color: black;
+  border-color: black;
+}
+.panel-footer {
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #141510;
+  border-color: white;
+}
+
+/* .col-lg-6 {
+height: 157%;
+} */
+.panel-body.col-lg-6 {
+  font-size: 30px;
+}
+h1.titel {
+  color: black;
+}
+.panel-primary {
+  border-color: white;
+}
+.btn-primary {
+  font-size: 15px;
+  width: 100px;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.btn-primary:hover {
+width: 150px;
+-webkit-transition: all 1000ms ease;
+}
